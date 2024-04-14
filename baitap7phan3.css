@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    text-align: center;
+    margin-top: 50px;
+}
+.img{
+    width: 400px;
+    height: 300px;
+    margin-left: 570px;
+    margin-top: 20px;
+}
+.doanvan{
+margin-top: 20px;
+color: red;
+display: inline;
+}
+.doanvan2{
+    display: inline;
+}

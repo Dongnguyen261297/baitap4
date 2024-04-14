@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    font-size: 20px;
+    padding-left: 250px;
+    background-image: url(https://c.pxhere.com/photos/dc/cb/umbrellas_sky_rain_colorful_parasol_cover_shelter-715913.jpg!s2);
+    width: 750px;
+    height: 250px;
+    color: white;
+    padding-top: 60px;
+    margin-left: 400px;
+    padding-top: 50px;
+}
+.box3{
+margin-left: -90px;
+margin-top: 20px;
+font-size: 15px;
+}
+.box4{
+    background-color: brown;
+    margin-top: 30px;
+    width: 300px;
+    height: 40px;
+    color: white;
+    margin-left: -20px;
+    border:1px;
+}

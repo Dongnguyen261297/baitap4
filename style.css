@@ -1,0 +1,48 @@
+/* #article-style {
+    background-color: black;
+    color: pink;
+} */
+/* .article-style{
+    background-color: brown;
+    color: bisque;
+}
+.shared-style{
+    background-color: blue;
+    color: red;
+    font-size: 20px;
+}
+a[href="http://google.com"]
+{
+    color: pink;
+}
+.parent .child {
+    background-color: blue;
+    color: red;
+}
+.demo {
+    background-color: darkgoldenrod;
+    color: black;
+}
+h1 {
+    background-color: ; */
+/* } */
+.paragraph{
+    text-align:right;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight:lighter;
+color: rgb(32, 218, 150);
+/* boxmodel */
+width: 500px;
+color: rgb(175, 217, 36);
+height: 300px;
+padding: 20px;
+margin: 50px;
+border: 10px solid black;
+box-sizing: border-box;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
